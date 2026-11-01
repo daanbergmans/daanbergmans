@@ -13,6 +13,8 @@ Software developer from **Belgium** with 9 years of experience building software
 
 `React` · `Vue` · `Spring Boot`
 
+`AWS` · `Azure`
+
 ## Languages
 
 Dutch (native) · English
