@@ -1,6 +1,6 @@
 # Hi 🤠
 
-Software developer from **Belgium** with 9 years of experience building software for clients across different industries. Outside of client work I like building small, useful tools: browser extensions, side projects, and the infrastructure that runs them.
+I'm a software developer from **Belgium** with 9 years of experience building software for clients across different industries. Outside of client work I like building small, useful tools: browser extensions, side projects, and the infrastructure that runs them.
 
 ## What I'm working on
 
