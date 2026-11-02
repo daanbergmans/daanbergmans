@@ -5,6 +5,7 @@ I'm a software developer from Belgium with 9 years of experience building softwa
 ## What I'm working on
 
 - **Firefox add-ons**: small extensions that remove friction from everyday browsing
+- **A personal expense tracker**: Locally ran, personal expense tracker
 - **A web application** of my own called [Mapception](https://mapception.org)
 
 ## Tech I work with
